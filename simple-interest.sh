@@ -18,3 +18,4 @@ echo "Time Period: $time years"
 echo "Simple Interest: $interest"
 echo "Total Amount: $(awk -v p="$principal" -v i="$interest" 'BEGIN { printf "%.2f", p + i }')"
 echo "-------------------------------------"
+# Typo fix
