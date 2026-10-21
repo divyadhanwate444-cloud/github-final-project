@@ -25,3 +25,4 @@ into the formula to calculate simple interest.
 - GitHub
 
 <!-- README update for merge assignment -->
+<!-- Merge assignment verification -->
