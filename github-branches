@@ -1,13 +1,12 @@
-* bug-fix-revert
+﻿  bug-fix-revert
   bug-fix-typo
-  main
+* main
   remotes/origin/HEAD -> origin/main
   remotes/origin/main
-## bug-fix-revert
+  bug-fix-revert bb42be5 Update README for merge assignment
+  bug-fix-typo   bb42be5 Update README for merge assignment
+* main           b551e53 [origin/main] Add final project submission evidence
+## main...origin/main
  M bug-fix-revert
  M forked-repo
  M github-branches
-?? merge_branches
-* bug-fix-revert bb42be5 Update README for merge assignment
-  bug-fix-typo   bb42be5 Update README for merge assignment
-  main           bb42be5 [origin/main: ahead 1] Update README for merge assignment

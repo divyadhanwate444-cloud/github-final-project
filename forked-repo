@@ -1,5 +1,5 @@
-Command:
-curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-Introduction-to-Git-and-GitHub
+﻿Command:
+curl.exe -fsS https://api.github.com/repos/divyadhanwate444-cloud/mcino-Introduction-to-Git-and-GitHub
 
 Terminal Output:
 {
@@ -338,3 +338,4 @@ Terminal Output:
   "network_count": 11205,
   "subscribers_count": 0
 }
+
