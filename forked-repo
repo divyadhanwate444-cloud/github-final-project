@@ -1,4 +1,7 @@
-Command: curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-Introduction-to-Git-and-GitHub
+Command:
+curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-Introduction-to-Git-and-GitHub
+
+Terminal Output:
 {
   "id": 1428306082,
   "node_id": "R_kgDOVSI4og",
@@ -195,7 +198,7 @@ Command: curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-I
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11204,
+    "forks_count": 11205,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +219,7 @@ Command: curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-I
 
     ],
     "visibility": "public",
-    "forks": 11204,
+    "forks": 11205,
     "open_issues": 48,
     "watchers": 20,
     "default_branch": "main"
@@ -306,7 +309,7 @@ Command: curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-I
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11204,
+    "forks_count": 11205,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +330,11 @@ Command: curl.exe -s https://api.github.com/repos/divyadhanwate444-cloud/mcino-I
 
     ],
     "visibility": "public",
-    "forks": 11204,
+    "forks": 11205,
     "open_issues": 48,
     "watchers": 20,
     "default_branch": "main"
   },
-  "network_count": 11204,
+  "network_count": 11205,
   "subscribers_count": 0
 }

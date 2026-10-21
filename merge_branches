@@ -1,0 +1,8 @@
+Command:
+git checkout main
+git merge bug-fix-typo
+
+Terminal Output:
+bb42be5 Update README for merge assignment
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)

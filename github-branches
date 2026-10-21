@@ -1,7 +1,13 @@
-﻿  bug-fix-typo
-* main
+* bug-fix-revert
+  bug-fix-typo
+  main
   remotes/origin/HEAD -> origin/main
   remotes/origin/main
-## main...origin/main
-?? github-branches
-0737836 Add pull request verification output
+## bug-fix-revert
+ M bug-fix-revert
+ M forked-repo
+ M github-branches
+?? merge_branches
+* bug-fix-revert bb42be5 Update README for merge assignment
+  bug-fix-typo   bb42be5 Update README for merge assignment
+  main           bb42be5 [origin/main: ahead 1] Update README for merge assignment
