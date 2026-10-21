@@ -23,3 +23,5 @@ into the formula to calculate simple interest.
 - Markdown
 - Git
 - GitHub
+
+<!-- README update for merge assignment -->
