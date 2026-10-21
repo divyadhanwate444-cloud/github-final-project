@@ -5,8 +5,8 @@
   remotes/origin/main
   bug-fix-revert bb42be5 Update README for merge assignment
   bug-fix-typo   bb42be5 Update README for merge assignment
-* main           b551e53 [origin/main] Add final project submission evidence
+* main           1d1fc45 [origin/main] Update final project evidence
 ## main...origin/main
- M bug-fix-revert
  M forked-repo
  M github-branches
+ M merge_branches
