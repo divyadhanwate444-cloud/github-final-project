@@ -5,8 +5,10 @@
   remotes/origin/bug-fix-typo
   remotes/origin/main
   bug-fix-revert bb42be5 Update README for merge assignment
-  bug-fix-typo   4f6055b Update README for final merge verification
-* main           5d00fc2 [origin/main: ahead 2] Merge branch 'bug-fix-typo'
+  bug-fix-typo   85b8d4c Verify feature branch merge
+* main           8cc3c38 [origin/main: ahead 2] Merge branch 'bug-fix-typo'
 ## main...origin/main [ahead 2]
+ M bug-fix-revert
+ M forked-repo
  M github-branches
  M merge_branches
