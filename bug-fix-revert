@@ -1,7 +1,4 @@
-ï»¿Command:
-curl.exe -fsS "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?state=all&per_page=100"
-
-Terminal Output:
+Command: curl.exe -s "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?state=all&per_page=100"
 [
   {
     "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12685",
@@ -762,7 +759,7 @@ Terminal Output:
       "user_view_type": "public",
       "site_admin": false
     },
-    "body": "Reverts the bug-fix-typo change as part of the Introduction to Git and GitHub lab.\n\nâ‰¡Æ’Ã±Ã» Generated with [Claude Code](https://claude.com/claude-code)",
+    "body": "Reverts the bug-fix-typo change as part of the Introduction to Git and GitHub lab.\n\n=ƒñû Generated with [Claude Code](https://claude.com/claude-code)",
     "created_at": "2026-10-21T11:00:50Z",
     "updated_at": "2026-10-21T11:00:59Z",
     "closed_at": "2026-10-21T11:00:59Z",
@@ -1125,7 +1122,7 @@ Terminal Output:
       "user_view_type": "public",
       "site_admin": false
     },
-    "body": "This pull request fixes the simple interest formula in README.md.\n\nThe previous formula was incorrect because it did not divide the result by 100.\n\nUpdated formula: Simple Interest = (P â”œÃ¹ T â”œÃ¹ R) / 100.\n\nOnly README.md was modified.",
+    "body": "This pull request fixes the simple interest formula in README.md.\n\nThe previous formula was incorrect because it did not divide the result by 100.\n\nUpdated formula: Simple Interest = (P +ù T +ù R) / 100.\n\nOnly README.md was modified.",
     "created_at": "2026-10-21T10:41:21Z",
     "updated_at": "2026-10-21T10:41:30Z",
     "closed_at": "2026-10-21T10:41:30Z",
@@ -16272,7 +16269,7 @@ Terminal Output:
     "number": 12639,
     "state": "closed",
     "locked": false,
-    "title": "Revert README copyright-year correction Î“Ã‡Ã¶ course exercise",
+    "title": "Revert README copyright-year correction GÇö course exercise",
     "user": {
       "login": "TanvirAhmedArnab",
       "id": 103847120,
@@ -35424,4 +35421,3 @@ Terminal Output:
     "active_lock_reason": null
   }
 ]
-
