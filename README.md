@@ -26,3 +26,4 @@ into the formula to calculate simple interest.
 
 <!-- README update for merge assignment -->
 <!-- Merge assignment verification -->
+<!-- Merge verification -->
